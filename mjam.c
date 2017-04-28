@@ -10,6 +10,7 @@ jam J1;
 jam J2;
 int dt=1000;
 /* PROGRAM */
+printf("ini adlaah perubahan");
 printf ("hello\n");
 ResetJam (&J1);
 TulisJam (J1);
