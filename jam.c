@@ -23,6 +23,7 @@ ResetJam (jam * J)
 (*J).HH = 0;
 (*J).MM = 0;
 (*J).SS = 0;
+printf("Ini Perubahan, buat belajar GitHub.");
 }
 void TulisJam (jam J)
 <<<<<<< HEAD
